@@ -1,2 +1,3 @@
 # shieldify
-Wow addon
+
+https://www.curseforge.com/wow/addons/shieldify
