@@ -1,0 +1,12 @@
+## Interface: 90005
+## Title: Shieldify
+## Notes: Shaman's shield reminder
+## Version: 0.4.1
+## Author: Lyeeroy
+## SavedVariables: _shieldifyAlert, _colorPicker, sfy_rgba, sfy_alertTextFont
+
+embeds.xml
+
+Shieldify.lua
+AlertFrame.lua
+Options.lua
