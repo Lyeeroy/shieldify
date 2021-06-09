@@ -25,7 +25,6 @@ class:SetScript("OnEvent", function(self, event, arg1, ...) -- check if shaman c
 				combatF:RegisterEvent("PLAYER_REGEN_DISABLED")
 				combatF:RegisterEvent("PLAYER_REGEN_ENABLED")
 				combatF:RegisterEvent("UNIT_SPELLCAST_SUCCEEDED")
-				--print("|cffff7d40Shieldify: Addon loaded|r")
 			end
 	end
 end)
